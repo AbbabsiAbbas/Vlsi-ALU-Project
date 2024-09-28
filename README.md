@@ -41,4 +41,4 @@ Based on group member IDs, the adder topology is selected as follows:
 
 ---
 
-This project is part of the [VLSI] at [Tel Aviv University - israel ] and is supervised by [Asia ben cohen].
+This project is part of the VLSI course at Tel Aviv University - israel and is supervised by DR Asia Ben Cohen.
