@@ -38,19 +38,7 @@ Based on group member IDs, the adder topology is selected as follows:
 - **gpdk045/gsclib045 technology**
 - **DRC, LVS, QRC for layout verification**
 
-## Group Members
-1. **[Your Name]** - [Your ID] - [Your Role]
-2. **[Member 2]** - [Member ID] - [Role]
-3. **[Member 3]** - [Member ID] - [Role]
-4. **[Member 4]** - [Member ID] - [Role]
-
-## Project Deadlines
-- **Planning Stage Report**: March 10, 2024
-- **Implementation Stage Report and Exam**: May 9, 2024
-
-## Contact
-For any questions or issues related to the project, please contact the course staff.
 
 ---
 
-This project is part of the [course name] at [university name] and is supervised by [Professor/Tutor Name].
+This project is part of the [VLSI] at [Tel Aviv University - israel ] and is supervised by [Asia ben cohen].
